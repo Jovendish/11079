@@ -1,6 +1,2 @@
-![Tab 1](images/tab_1.png)
 ![Fig 1](images/fig_1.png)
-![Tab 2](images/tab_2.png)
-![Tab 3](images/tab_3.png)
 ![Fig 2](images/fig_2.png)
-![Fig 3](images/fig_3.png)
